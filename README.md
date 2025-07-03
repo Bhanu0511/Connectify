@@ -1,4 +1,4 @@
-<h1 align="center"> Relay — A Real-Time Full-Stack Messaging Platform</h1>
+<h1 align="center"> Connectify — A Real-Time Full-Stack Messaging Platform</h1>
 
 <p align="center">
   <a href="#-project-description">Description</a> • 
@@ -11,7 +11,7 @@
 
 ## 🚀 Project Description
 
-**Relay** is a modern, real-time messaging web application that mimics the feel of today’s top messaging platforms. With secure authentication, dynamic **Socket.IO-based** communication, and a polished responsive UI, it delivers a seamless chat experience. Whether you’re sending text, photos, or videos, everything happens in real-time — no refresh required.
+**Connectify** is a modern, real-time messaging web application that mimics the feel of today’s top messaging platforms. With secure authentication, dynamic **Socket.IO-based** communication, and a polished responsive UI, it delivers a seamless chat experience. Whether you’re sending text, photos, or videos, everything happens in real-time — no refresh required.
 
 The project demonstrates full-stack proficiency with features like JWT-based authentication, password hashing via `bcryptjs`, file uploads to **Cloudinary**, and live updates via **Socket.IO** — all built around a **clean modular architecture** in both frontend and backend.
 
